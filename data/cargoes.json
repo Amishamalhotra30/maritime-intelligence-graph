@@ -1,0 +1,23 @@
+[
+    {
+        "broker": "LIDOMAR",
+        "cargo_name": "HRC",
+        "loading_port": "JEDDAH",
+        "discharge_port": "BILBAO",
+        "laycan": "25 JUNE - 5 JULY"
+    },
+    {
+        "broker": null,
+        "cargo_name": "IRON SLAG",
+        "loading_port": "BUSHEHR",
+        "discharge_port": "DOHA",
+        "laycan": "25-30 JULY"
+    },
+    {
+        "broker": null,
+        "cargo_name": "UREA",
+        "loading_port": "BIK",
+        "discharge_port": "ISKENDERUN",
+        "laycan": "16-20 JULY"
+    }
+]

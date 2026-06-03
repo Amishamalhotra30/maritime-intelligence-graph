@@ -1,0 +1,32 @@
+[
+    {
+        "vessel_name": "SHENG AN HAI",
+        "vessel_size": "56564",
+        "open_port": "XIAMEN",
+        "open_date": "2ND JUNE 2026"
+    },
+    {
+        "vessel_name": "BLUE STAR",
+        "vessel_size": "38",
+        "open_port": "GABES",
+        "open_date": null
+    },
+    {
+        "vessel_name": "SARONIC CHAMPION",
+        "vessel_size": "93",
+        "open_port": "VUNG ANG",
+        "open_date": "08-12 JUNE"
+    },
+    {
+        "vessel_name": "TRUE FRIEND",
+        "vessel_size": "51",
+        "open_port": "BEJAIA",
+        "open_date": "1ST JUNE"
+    },
+    {
+        "vessel_name": "AN DING HAI",
+        "vessel_size": "38800",
+        "open_port": "CASABLANCA",
+        "open_date": "28-30 MAY 2026"
+    }
+]
