@@ -6,7 +6,7 @@ function CargoTable() {
 
   useEffect(() => {
 
-    fetch("http://127.0.0.1:8000/cargoes")
+    fetch("https://maritime-intelligence-graph.onrender.com/cargoes")
       .then((res) => res.json())
       .then((data) => setCargoes(data))
       .catch((err) => console.error(err));
