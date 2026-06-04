@@ -6,7 +6,7 @@ function VesselTable() {
 
   useEffect(() => {
 
-    fetch("http://127.0.0.1:8000/vessels")
+    fetch("https://maritime-intelligence-graph.onrender.com/vessels")
       .then((res) => res.json())
       .then((data) => setVessels(data))
       .catch((err) => console.error(err));
